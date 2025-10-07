@@ -21,27 +21,27 @@
 [![📝 Descrição do Projeto](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/descricao-do-projeto.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/descricao-do-desafio.md)
   
 
-<a id="backlog-do-produto"></a>
+<a id="backlog-do-produto" align="center"></a>
 [![📦 Backlog do Produto](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/backlog-do-produto.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/backlog-do-produto.md)
 
-<a id="cronograma-de-sprints"></a>
+<a id="cronograma-de-sprints" align="center"></a>
 [![📅 Cronograma de Sprints](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/cronograma-de-sprints.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/cronograma-de-sprints.md)
 
-<a id="tecnologias-utilizadas"></a>
+<a id="tecnologias-utilizadas" align="center"></a>
 [![💻 Tecnologias Utilizadas](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/tecnologias-utilizadas.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/tecnologias-utilizadas.md)
 
-<a id="estrutura-do-projeto"></a>
+<a id="estrutura-do-projeto" align="center"></a>
 [![📦 Estrutura do Projeto](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/estrutura-do-projeto.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/estrutura-do-projeto.md)
 
-<a id="manual-de-instalacao"></a>
+<a id="manual-de-instalacao" align="center"></a>
 [![📖 Manual de Instalação](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/manual-do-sistema.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/manual-de-instalacao.md)
 
-<a id="checklist-de-dor"></a>
+<a id="checklist-de-dor" align="center"></a>
 [![✅ Checklist de DoR](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/checklist-de-dor.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/checklist-de-dor.md)
 
-<a id="checklist-de-dod"></a>
+<a id="checklist-de-dod" align="center" ></a>
 [![✅ Checklist de DoD](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/checklist-de-dod.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/checklist-de-dod.md)
 
 
-<a id="equipe"></a>
+<a id="equipe" align="center"></a>
 [![👥 Equipe](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/equipe.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/equipe.md)
