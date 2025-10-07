@@ -44,4 +44,4 @@
 
 
 <a id="equipe"></a>
-[![👥 Equipe](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/equipe.png)](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/equipe.md)
+[![👥 Equipe](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/Imagens/equipe.png)](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/equipe.md)
